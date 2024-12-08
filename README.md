@@ -1,4 +1,5 @@
-# Max-Flow Min-Cut Analysis - Network Dynamics and Learning Lecture Project 1
+# Max-Flow Min-Cut Analysis 
+## Network Dynamics and Learning Lecture Project 1
 
 ## 📜 Project Overview
 This repository contains my work for the first individual project in the "Network Dynamics and Learning" course at Politecnico di Torino (2023/2024). The project focuses on **network flow optimization problems**, including:
